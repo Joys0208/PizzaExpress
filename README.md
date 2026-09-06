@@ -48,7 +48,7 @@ Ver Estrategia de Seguimiento y Soporte
 Anexos
 📐 Diagrama de Casos de Uso
 Diagrama que representa los principales actores y funcionalidades contempladas en el sistema PizzaExpress.
-Ver carpeta de Anexos
+**[Ver Diagrama de Casos de Uso](04_Anexos/Diagrama%20de%20casos.drawio)**
 
 Herramientas utilizadas
 Herramienta	   Uso
@@ -67,7 +67,7 @@ El trabajo del proyecto fue organizado mediante una metodología ágil, utilizan
 
 Tablero Trello
 El tablero utilizado para la gestión y seguimiento de las actividades del proyecto es:
-urlTablero Trello de PizzaExpresshttps://trello.com/b/VOoQMUp6
+Tablero Trello de PizzaExpress
 
 Control de versiones
 El proyecto utiliza Git y GitHub para organizar los cambios y mantener la documentación del proyecto.
