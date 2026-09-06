@@ -39,16 +39,15 @@ Las evidencias simuladas no contienen información personal, credenciales reales
 
 Su finalidad es demostrar la forma en que se documentaría el resultado de las pruebas dentro de un proceso de Ingeniería de Software.
 
-En una implementación real, estas evidencias serían reemplazadas o complementadas con:
+En una implementación real, estas evidencias serán reemplazadas o complementadas con:
 
 Capturas de pantalla.
 Registros del sistema.
 Informes de ejecución.
-Resultados obtenidos durante las pruebas.
 Otros elementos verificables.
 5. Conclusión
 
-La documentación de evidencias permite mantener la trazabilidad entre los casos de prueba definidos y los resultados obtenidos.
+La documentación de evidencias permite mantener trazabilidad entre los casos de prueba definidos y los resultados obtenidos.
 
 La organización de estas evidencias facilita la revisión del proyecto y permite demostrar el cumplimiento de los criterios establecidos para las funcionalidades principales de PizzaExpress.
 
